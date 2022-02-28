@@ -1,37 +1,84 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  <a href="https://whatsapp-clone-martstech.vercel.app">
+      <img width="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" alt="Whatsapp Logo" />
+  </a>
+  <br />
+  Whatsapp Clone
+  <br />
+</h1>
 
-## Getting Started
+<h4 align="center">
+   Whatsapp Clone created with Next.JS</a>.
+</h4>
 
-First, run the development server:
+<p align="center">
+   <img src="https://img.shields.io/github/v/release/MartsTech/whatsapp-clone" alt="Release" />
+   <img src="https://vercelbadge.vercel.app/api/MartsTech/whatsapp-clone" alt="Deployment" />
+   <img src="https://img.shields.io/github/license/MartsTech/whatsapp-clone" alt="License" />
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p align="center">
+  <a href="#demo">Demo</a> •
+  <a href="#key-features">Key Features</a> •
+  <a href="#key-technologies">Key Technologies</a> •
+  <a href="#setup">Setup</a> •
+  <a href="#support">Support</a> •
+  <a href="#license">License</a>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Chat Screenshot](public/screenshots/chat.png?raw=true "Chat Screenshot")
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+---
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Demo
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Here is a working live demo [here](https://whatsapp-clone-martstech.vercel.app)
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Key Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Realtime Messaging
+- 1-1 Messaging
+- Live Status
+- Infinite Scrolling
+- Authentication
+- SEO optimization
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Key Technologies
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Next.JS
+- Firebase
+- Styled-Components
+- Mobx
+- Typescript
+- Material UI
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
 
-### Live Demo
-[Visit](https://whatsapp-clone-nextjs-six.vercel.app)
+## Setup
+
+Clone this repo to your desktop and run `yarn install` to install all the dependencies.
+Then run `yarn dev` to start the application locally
+
+Change the .env.example file to .env.local and fill the empty fields
+
+---
+
+## Support
+
+Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
+
+<a href="https://www.buymeacoffee.com/stefanusfry" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" />
+</a>
+
+---
+
+## License
+
+> You can check out the full license [here](https://github.com/MartsTech/whatsapp-clone/blob/main/LICENSE)
+
+This project is licensed under the terms of the **MIT** license
